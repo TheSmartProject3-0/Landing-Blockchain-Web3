@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/TheSmartProject3-0/',
+  base: '/Landing-Blockchain-Web3/',
   build: {
     rollupOptions: {
       output:{
